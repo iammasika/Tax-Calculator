@@ -221,4 +221,5 @@ Install a Web Server: You can install one using npm:
 http-server .
 Navigate to http://localhost:8000 in your web browser to see the tax calculator in action.
 #   T a x - C a l c u l a t o r  
+ #   T a x - C a l c u l a t o r  
  
